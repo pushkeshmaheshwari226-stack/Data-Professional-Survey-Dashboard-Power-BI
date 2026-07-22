@@ -36,4 +36,4 @@ Source: Alex The Analyst — Data Analyst Bootcamp (2026)
 
 ## 🖼️ Dashboard Preview
 
-*(Add a screenshot of your dashboard here)*
+![Dashboard](dashboard-preview.png)
